@@ -1,4 +1,4 @@
-# 🚖 Mini Ride Booking System (MERN Stack)
+# 🚖 Mini Ride Booking System
 
 A full-stack ride-hailing system built using **Node.js**, **Express**, **React**, and **SQLite**. This app allows passengers to request rides and drivers to accept/reject and complete them.
 
@@ -194,12 +194,4 @@ Authorization: Bearer <token>
 - Admin panel for monitoring activity
 
 ---
-
-## 📌 Contributors
-- Built by Safi (Tech Pioneer Program 2025)
-
----
-
-## ✅ Submission-Ready
-> This repo is a complete full-stack implementation of the Jeeny Case Study, covering **all required + optional + bonus** features.
 
