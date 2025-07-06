@@ -343,8 +343,3 @@ You can obtain this token after registering or logging in.
 - All API responses follow REST conventions with proper status codes
 - Role-based access is enforced using middleware functions
 
----
-
-**Created by**: Safi (Tech Pioneer Program 2025)\
-**Last Updated**: July 6, 2025
-
