@@ -241,9 +241,3 @@ PATCH /rides/2/status
 - Launch an admin dashboard for system-wide monitoring
 - OTP/SMS verification using Twilio API
 
----
-
-**Prepared by**: Safi (Tech Pioneer Program 2025)\
-**Version**: 1.0.0\
-**Date**: July 6, 2025
-
